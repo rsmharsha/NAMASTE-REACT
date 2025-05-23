@@ -1,0 +1,29 @@
+{
+  "name": "njs-basics",
+  "version": "1.0.0",
+  "description": "Namaste React by Harsha ",
+  "scripts": {
+    "test": "jest",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsmharsha/NAMASTE-REACT.git"
+  },
+  "keywords": [],
+  "author": "Harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsmharsha/NAMASTE-REACT/issues"
+  },
+  "homepage": "https://github.com/rsmharsha/NAMASTE-REACT#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
